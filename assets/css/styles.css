@@ -1,0 +1,79 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #fcfcfc;
+}
+
+/* Logo Filter */
+.logo-white {
+    filter: brightness(0) invert(1);
+}
+
+/* Hero Carousel */
+.hero-img {
+    height: 400px;
+    object-fit: cover;
+    filter: brightness(0.8);
+}
+
+/* Botones de Filtro Estilo Nintendo */
+.btn-nintendo-filter {
+    border: 2px solid #e60012;
+    color: #e60012;
+    background: transparent;
+    border-radius: 50px;
+    padding: 8px 20px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+.btn-nintendo-filter:hover, .btn-nintendo-filter.active {
+    background-color: #e60012;
+    color: white;
+}
+
+/* Cards de Productos */
+.card-producto {
+    border: none;
+    border-radius: 15px;
+    overflow: hidden;
+    transition: transform 0.3s ease, shadow 0.3s ease;
+    background: white;
+}
+
+.card-producto:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0,0,0,0.1);
+}
+
+.img-container {
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background: #f8f9fa;
+}
+
+.img-container img {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+}
+
+.btn-add-cart {
+    background-color: #e60012;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.2s;
+}
+
+.btn-add-cart:hover {
+    background-color: #2d2d2d;
+    transform: rotate(90deg);
+}

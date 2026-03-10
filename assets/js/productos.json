@@ -1,0 +1,22 @@
+[
+  { "id": 1, "nombre": "Nintendo Switch OLED", "precio": 349990, "img": "assets/img/switch-lite.jpg", "categoria": "Consolas" },
+  { "id": 2, "nombre": "Nintendo Switch Lite", "precio": 199990, "img": "assets/img/switch-lite.jpg", "categoria": "Consolas" },
+  { "id": 3, "nombre": "The Legend of Zelda: TotK", "precio": 59990, "img": "assets/img/zelda.jpg", "categoria": "Juegos" },
+  { "id": 4, "nombre": "Super Mario Odyssey", "precio": 49990, "img": "assets/img/mario-odyssey.jpg", "categoria": "Juegos" },
+  { "id": 5, "nombre": "Mario Kart 8 Deluxe", "precio": 49990, "img": "assets/img/mario-kart.jpg", "categoria": "Juegos" },
+  { "id": 6, "nombre": "Joy-Con Neon Blue/Red", "precio": 74990, "img": "assets/img/joycon.jpg", "categoria": "Accesorios" },
+  { "id": 7, "nombre": "Pro Controller", "precio": 69990, "img": "assets/img/pro-controller.jpg", "categoria": "Accesorios" },
+  { "id": 8, "nombre": "Animal Crossing: NH", "precio": 44990, "img": "assets/img/animal-crossing.jpg", "categoria": "Juegos" },
+  { "id": 9, "nombre": "Metroid Dread", "precio": 39990, "img": "assets/img/metroid.jpg", "categoria": "Juegos" },
+  { "id": 10, "nombre": "Splatoon 3", "precio": 49990, "img": "assets/img/splatoon.jpg", "categoria": "Juegos" },
+  { "id": 11, "nombre": "Nintendo Online 12m", "precio": 18990, "img": "assets/img/online.jpg", "categoria": "Suscripciones" },
+  { "id": 12, "nombre": "Luigi's Mansion 3", "precio": 44990, "img": "assets/img/luigi.jpg", "categoria": "Juegos" },
+  { "id": 13, "nombre": "Pokémon Scarlet", "precio": 52990, "img": "assets/img/pokemon-s.jpg", "categoria": "Juegos" },
+  { "id": 14, "nombre": "Pokémon Violet", "precio": 52990, "img": "assets/img/pokemon-v.jpg", "categoria": "Juegos" },
+  { "id": 15, "nombre": "Smash Bros Ultimate", "precio": 59990, "img": "assets/img/smash.jpg", "categoria": "Juegos" },
+  { "id": 16, "nombre": "Estuche Viajero", "precio": 19990, "img": "assets/img/estuche.jpg", "categoria": "Accesorios" },
+  { "id": 17, "nombre": "Kirby Forgotten Land", "precio": 44990, "img": "assets/img/kirby.jpg", "categoria": "Juegos" },
+  { "id": 18, "nombre": "Pikmin 4", "precio": 49990, "img": "assets/img/pikmin.jpg", "categoria": "Juegos" },
+  { "id": 19, "nombre": "Volante Mario Kart", "precio": 14990, "img": "assets/img/volante.jpg", "categoria": "Accesorios" },
+  { "id": 20, "nombre": "Amiibo Link", "precio": 24990, "img": "assets/img/amiibo.jpg", "categoria": "Accesorios" }
+]
